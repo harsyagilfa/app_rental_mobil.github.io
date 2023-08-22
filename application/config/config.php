@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'https://harsyagilfa.github.io/app_rental_mobil.github.io/';
+$config['base_url'] = '/app_rental_mobil.github.io/';
 
 /*
 |--------------------------------------------------------------------------
